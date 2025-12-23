@@ -1,0 +1,13 @@
+{
+  "name": "webqa",
+  "version": "1.0.0",
+  "description": "Autonomous browser testing with Playwright - execute tests via JSON DSL",
+  "skills": "./skills/",
+  "mcpServers": {
+    "webqa": {
+      "command": "node",
+      "args": ["${CLAUDE_PLUGIN_ROOT}/dist/index.js"],
+      "cwd": "${CLAUDE_PLUGIN_ROOT}"
+    }
+  }
+}

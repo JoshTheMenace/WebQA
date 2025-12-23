@@ -1,0 +1,1 @@
+{"version":3,"file":"playwright-interpreter.d.ts","sourceRoot":"","sources":["../../src/interpreter/playwright-interpreter.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,cAAc,EAAE,UAAU,EAAwB,MAAM,iBAAiB,CAAC;AAInF,qBAAa,qBAAqB;IAChC,OAAO,CAAC,aAAa,CAAS;gBAElB,aAAa,GAAE,MAAuB;IAQ5C,WAAW,CAAC,UAAU,EAAE,cAAc,GAAG,OAAO,CAAC,UAAU,CAAC;YAqHpD,WAAW;YAsGX,YAAY;CAe3B"}
