@@ -1,6 +1,6 @@
 # WebQA
 
-**Autonomous browser testing for Claude Code** — Write tests in natural language, execute them via Playwright, and get visual feedback.
+**Autonomous browser testing for Claude Code** — Write tests in natural language, execute them via headless Playwright, and get visual feedback.
 
 <p align="center">
   <a href="https://youtu.be/driWx0NBzS8">
