@@ -2,7 +2,13 @@
 
 **Autonomous browser testing for Claude Code** — Write tests in natural language, execute them via Playwright, and get visual feedback.
 
-[![Watch the demo](https://img.youtube.com/vi/driWx0NBzS8/maxresdefault.jpg)](https://youtu.be/driWx0NBzS8)
+<p align="center">
+  <a href="https://youtu.be/driWx0NBzS8">
+    <img src="https://img.youtube.com/vi/driWx0NBzS8/maxresdefault.jpg" alt="Watch the demo" width="600">
+  </a>
+  <br>
+  <a href="https://youtu.be/driWx0NBzS8"><b>▶ Watch the Demo</b></a>
+</p>
 
 WebQA is a Claude Code plugin that enables AI-driven browser testing through a custom JSON DSL. Describe what you want to test, and Claude will generate and execute the test automatically, recording video and capturing screenshots along the way.
 
